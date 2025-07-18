@@ -1,2 +1,3 @@
 # SigmaProger1945
-Config files for my GitHub profile.
+STATS
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechMarcus)](https://github.com/anuraghazra/github-readme-stats)
