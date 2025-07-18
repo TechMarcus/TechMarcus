@@ -1,3 +1,7 @@
 # SigmaProger1945
-STATS
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechMarcus&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+STATS:
+
+<p align="left">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechMarcus&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
