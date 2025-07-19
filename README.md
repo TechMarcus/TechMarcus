@@ -1,4 +1,6 @@
-# SigmaProger1945
+# TechMarcus
+# Hello there!
+
 STATS:
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TechMarcus&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
