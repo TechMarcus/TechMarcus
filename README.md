@@ -3,9 +3,9 @@ Self-taught Backend & DevOps Engineer<br>
 
 ## **Skills 💻🛠️**
 ### **DevOps stack:**
-- **Containerization:** Docker (including Docker Compose, Swarm)  
+- **Containerization:** Docker 
 - **Infrastructure as Code (IaC):** Ansible  
-- **CI/CD:** GitHub Actions, GitLab CI/CD, Jenkins  
+- **CI/CD:** GitHub Actions, GitLab CI/CD 
 - **Monitoring/Logging:** Grafana, Loki, Prometheus
   
 ## **Stats 📊**
