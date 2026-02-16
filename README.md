@@ -1,5 +1,5 @@
 # TechMarcus
-Self-taught Backend & DevOps Engineer<br>
+
 
 ## **Skills 💻🛠️**
 ### **DevOps stack:**
