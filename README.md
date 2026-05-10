@@ -6,7 +6,7 @@
 - **Containerization:** Docker 
 - **Infrastructure as Code (IaC):** Ansible  
 - **CI/CD:** GitHub Actions, GitLab CI/CD 
-- **Monitoring/Logging:** Grafana, Loki, Prometheus
+- **Monitoring/Logging:** Grafana, Loki, Prometheus/Victoria Metrics
   
 ## **Stats 📊**
 
